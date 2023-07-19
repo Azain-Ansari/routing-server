@@ -1,0 +1,23 @@
+{
+  "name": "routing-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azain-Ansari/routing-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azain-Ansari/routing-server/issues"
+  },
+  "homepage": "https://github.com/Azain-Ansari/routing-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
